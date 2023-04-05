@@ -1,0 +1,351 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+background: #706294;
+
+width: 10000px;
+height: 102px;
+top: 10px;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+.estadual {
+  position: absolute;
+width: 1165px;
+height: 63px;
+left: 200px;
+top: 30px;
+
+font-family: 'B612';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 43px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+backdrop-filter: blur(2px);
+}
+
+.colegio2 {
+  position: absolute;
+left: -142px;
+top: -190px;
+
+background: url(colegio2.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+
+
+textarea {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 280px;
+  height: 34px;
+  left: 1400px;
+  top: 35px;
+
+  font-family: 'ABeeZee';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+color: #685959;
+
+  background: #D9D9D9;
+  border: 1px solid #000000;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+
+}
+
+.inicio {
+  position: absolute;
+width: 137px;
+height: 68px;
+left: 560px;
+top: 142px;
+
+font-family: 'B612';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 43px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.turmas {
+  position: absolute;
+width: 128px;
+height: 58px;
+left: 860px;
+top: 145px;
+
+font-family: 'B612';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 43px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.contato {
+  position: absolute;
+width: 138px;
+height: 58px;
+left: 1170px;
+top: 145px;
+
+font-family: 'B612';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 43px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.costa {
+  box-sizing: border-box;
+
+position: absolute;
+width: 850px;
+height: 650px;
+left: 49px;
+top: 293px;
+
+background: url(costa.jpg);
+border: 1px solid #000000;
+}
+
+.conheca {
+  position: absolute;
+width: 300px;
+height: 0px;
+left: 1070px;
+top: 284px;
+
+font-family: 'B612';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 43px;
+
+
+
+color: #000000;
+}
+
+.silva {
+  position: absolute;
+width: 500px;
+height: 0px;
+left: 1285px;
+top: 284px;
+
+font-family: 'B612';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 43px;
+/* identical to box height */
+
+
+color: #F34A3B;
+}
+
+.seta {
+  position: absolute;
+width: 83px;
+height: 83px;
+left: 950px;
+top: 374px;
+
+background: url(3.png);
+border-radius: 118px;
+}
+
+.telefone {
+  position: absolute;
+width: 83px;
+height: 83px;
+left: 950px;
+top: 487px;
+
+background: url(2.png);
+border-radius: 118px;
+}
+
+.email {
+  position: absolute;
+width: 83px;
+height: 83px;
+left: 950px;
+top: 600px;
+
+background: url(email.png);
+border-radius: 118px;
+}
+
+.relogio {
+  position: absolute;
+width: 83px;
+height: 83px;
+left: 950px;
+top: 713px;
+
+background: url(5.png);
+border-radius: 118px;
+}
+
+.estrela {
+  position: absolute;
+width: 83px;
+height: 83px;
+left: 950px;
+top: 826px;
+
+background: url(6.png);
+border-radius: 118px;
+}
+
+.endereço {
+
+position: absolute;
+width: 544px;
+height: 50px;
+left: 1070px;
+top: 395px;
+
+font-family: 'B612';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+
+color: #000000;
+}
+
+.numero {
+  position: absolute;
+width: 206px;
+height: 30px;
+left: 1070px;
+top: 510px;
+
+font-family: 'B612';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+
+color: #000000;
+}
+
+.seed {
+  position: absolute;
+width: 344px;
+height: 30px;
+left: 1070px;
+top: 625px;
+
+font-family: 'B612';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+
+color: #19A5E1;
+}
+
+.aberto {
+  position: absolute;
+width: 160px;
+height: 30px;
+left: 1070px;
+top: 740px;
+
+font-family: 'B612';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+
+color: #39C481;
+}
+
+.classificacao {
+  position: absolute;
+width: 411px;
+height: 60px;
+left: 1070px;
+top: 850px;
+
+font-family: 'B612';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+
+color: #000000;
+}
+
+.sugestao {
+  box-sizing: border-box;
+
+position: absolute;
+width: 468px;
+height: 541px;
+left: 250px;
+top: 1200px;
+
+background: url(image.png);
+border: 1px solid #000000;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.postagens {
+  position: absolute;
+width: 601px;
+height: 80px;
+left: 600px;
+top: 1040px;
+
+font-family: 'B612';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+text-align: center;
+
+color: #000000;
+}
+
+.quimica {
+  box-sizing: border-box;
+
+position: absolute;
+width: 490.13px;
+height: 541px;
+left: 1100px;
+top: 1198px;
+
+background: url(imagem_2023-04-03_221154103.png);
+border: 1px solid #000000;
+}
